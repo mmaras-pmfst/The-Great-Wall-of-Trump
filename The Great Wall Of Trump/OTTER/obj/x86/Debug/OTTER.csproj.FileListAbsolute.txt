@@ -1,0 +1,188 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-Original\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1\OTTER\obj\x86\Debug\OTTER.Form1.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\student.2-74-03\Desktop\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bomba.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form1.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bomba.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form1.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - testKraj\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form2.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bomba.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form1.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form2.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Thrump-v1.3 - test\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bomba.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form1.resources
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form2.resources
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\backgrounds\pozadina.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bomba.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\bullet1.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\enemy.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\helicopter.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\mobitel.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\saw.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\sprites\tank.png
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.xml
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.exe
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\bin\Debug\OTTER.pdb
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form1.resources
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Form2.resources
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\marko\Desktop\FAKS\2.GODINA\2018\4.SEMESTAR\OBJEKTNO ORIJENTIRANO PROGRAMIRANJE\MOJ PROJEKT GOTOVO\The Great Wall Of Trump\The Great Wall Of Thrump-v1.2\OTTER\obj\x86\Debug\OTTER.pdb
